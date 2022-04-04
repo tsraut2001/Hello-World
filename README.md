@@ -1,4 +1,3 @@
 # Hello-World
 First Repository (July 11,2020)
-Hi. I am Tushar from IIT Ropar- An honest , Enthusiastic, lifelong learner. 
-I would like to share my learning with you.
+Hi. I am Tushar, a 3rd year BTech student from IIT Ropar
